@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1714531450 source:c:\users\admin\desktop\mouse\baseobject.cpp
+	"BaseObject.h"
+
+1714567044 c:\users\admin\desktop\mouse\baseobject.h
+	"CommonFUNCTION.h"
+
+1714567344 c:\users\admin\desktop\mouse\commonfunction.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1714567100 source:c:\users\admin\desktop\mouse\commonfunction.cpp
+
+1714572245 source:c:\users\admin\desktop\mouse\main.cpp
+	"CommonFUNCTION.h"
+	"BaseObject.h"
+	"MouseObject.h"
+
+1714572907 c:\users\admin\desktop\mouse\mouseobject.h
+	"CommonFUNCTION.h"
+	"BaseObject.h"
+
+1714638989 source:c:\users\admin\desktop\mouse\mouseobject.cpp
+	"MouseObject.h"
+
